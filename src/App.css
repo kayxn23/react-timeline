@@ -13,5 +13,9 @@
 
 .App-main {
   padding-top: 7rem;
-  background-color: #E6ECF0;
+  /* background-color: #E6ECF0; */
+  background-image: url("https://hdbackgroundspot.com//storage/upload/abstract-background-images/abstract-background-images-43.");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
